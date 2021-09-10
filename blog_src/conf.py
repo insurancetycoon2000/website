@@ -47,6 +47,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'furo'
 html_title = "Insurance Tycoon 2000 <br /> <br /> Development Blog"
 # html_logo = "_static/trianglelogo.svg"
+html_favicon = '_static/trianglelogo.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
